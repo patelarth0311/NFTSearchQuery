@@ -49,3 +49,16 @@
 
 </p>
 
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/82795337/159569723-faa4505a-a85b-4936-adac-5d49ef753c28.PNG" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/82795337/159569723-faa4505a-a85b-4936-adac-5d49ef753c28.PNG" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/82795337/159569723-faa4505a-a85b-4936-adac-5d49ef753c28.PNG" width=270 height=480></td>
+  </tr>
+ </table>
+
