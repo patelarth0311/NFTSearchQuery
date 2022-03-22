@@ -7,20 +7,24 @@
   </p>
   
   
-  
+  The iOS application enables users to add NFT collections, view  details about a particular NFT, and added NFTs to a watchlist.
   
   <p align="center">
 <img width="535"  src="https://user-images.githubusercontent.com/82795337/159568869-4986fae7-9c19-4797-8b46-d3dce3529467.PNG">
   </p>
+  Home View
   
   
   <p align="center">
 <img width="535" alt="Screen Shot 2022-03-22 at 4 19 36 PM" src="https://user-images.githubusercontent.com/82795337/159568869-4986fae7-9c19-4797-8b46-d3dce3529467.PNG">
   </p>
+  Search View
+  
     
   <p align="center">
 <img width="535" alt="Screen Shot 2022-03-22 at 4 19 36 PM" src="https://user-images.githubusercontent.com/82795337/159568919-07ed6fe5-ff8c-4d87-b350-bd29c136b470.PNG">
   </p>
+  
 
 
   <p align="center">
