@@ -24,6 +24,7 @@
 What is work-in-progress?
 - User validation is a work-in-progress. I need to implmenent a function that tells users know that the entered contact address is valid or not.
 - I am also working on making the application compatible on various screen sizes.
+- Working on checking whether or not the user also has already added an NFT.
  
 
   
