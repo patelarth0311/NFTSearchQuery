@@ -9,6 +9,21 @@
   
   The iOS application enables users to add NFT collections, view  details about a particular NFT, and added NFTs to a watchlist.
  
+ To run:
+ - Have Xcode downloaded
+ - Download the project file and open the folder in Xcode
+ - Click on simulators. Choose a simulator to run the app on or you can plug your iPhone to your Mac via a compatiable cable.
+ 
+ 
+ What works?
+ - The application supports fetching NFTs from the NFTPort API given a valid contact address.
+ - User can then view specific details about those NFTs by toggling on them in the Search view.
+ - User can also favorite those NFTs by toggle on the heart icon. Those NFTs will appear on the Home view.
+ - User can filter the NFTs by token ID, contact address, blockchain name, or creator name. 
+
+What is work-in-progress?
+- User validation is a work-in-progress. I need to implmenent a function that tells users know that the entered contact address is valid or not.
+- I am also working on making the application compatible on various screen sizes.
  
 
   
